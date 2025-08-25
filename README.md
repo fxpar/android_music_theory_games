@@ -25,11 +25,25 @@ Android application for practicing music theory, scales, chords, interval, 100% 
 * Easy transposition up / Down / Fifth
 
 ![Screenshot](./screenshots/scale-name-light-bpm.png) ![Screenshot](./screenshots/scale-name-dark-tooltip.png) 
+
+#### tablatures
+* [x] Currently for ukulele g-tuning reentrant (GCEA)
+* [ ] Future version with guitar
+
 ![Screenshot](./screenshots/scale-select-dark.png) ![Screenshot](./screenshots/scale-select-light.png)
 
 ### Jam session
 
-Work your improvisation with some custimizable jazz grids.
+Work your improvisation with some custimizable jazz grids loops.
+* Best sound for bass and chord is piano
+* Customizable sound (guitar nylon and violin, but midi sound that great)
 * Customizable Chords font size
 
 ![Screenshot](./screenshots/jam-light.png)
+
+# Specs
+* Using ABCJS from Paul Rosen
+* Using TonalJS
+
+
+

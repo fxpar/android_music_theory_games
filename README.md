@@ -42,6 +42,7 @@ Work your improvisation with some custimizable jazz grids loops.
 * Best sound for bass and chord is piano
 * Customizable sound (guitar nylon and violin, but midi sound that great)
 * Customizable Chords font size
+* you can test them: https://www.fxparlant.net/accompagnement-jam/
 
 ![Screenshot](./screenshots/jam-light.png)
 

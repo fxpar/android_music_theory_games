@@ -64,6 +64,7 @@ Javascript customized version to include:
 * Using ABCJS from Paul Rosen
 * Using TonalJS
 * UkeChords
+* Bootstrap 5.3
 
 
 

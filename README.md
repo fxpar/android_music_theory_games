@@ -8,6 +8,7 @@ Android application for practicing music theory, scales, chords, interval, 100% 
 * [x] sound loops for improvisation
 * [x] customizable partitions
 * [ ] internationalization (almost no text: I18n in progress English, French for now)
+* [ ] saving custom partitions create by user
 
 # Status
 * Experimental

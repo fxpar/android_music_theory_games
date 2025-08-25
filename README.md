@@ -26,6 +26,7 @@ Android application for practicing music theory, scales, chords, intervals, 100%
 * Includes 100 scales examples
 * Easy sound listening
 * Easy tempo change
+* Random more for discovery
 
 ![Screenshot](./screenshots/scale-name-light-bpm.png) ![Screenshot](./screenshots/scale-name-dark-tooltip.png) 
 

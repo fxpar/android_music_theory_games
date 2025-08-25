@@ -41,9 +41,24 @@ Work your improvisation with some custimizable jazz grids loops.
 
 ![Screenshot](./screenshots/jam-light.png)
 
+### Drag and drop chord Games
+* [ ] Work in progress: experimental games for learning chords construction
+
+![Screenshot](./screenshots/magic-square-chords.png) ![Screenshot](./screenshots/gamme-quiz-light.png)
+
+### Ukulele / Guitar chords chart creator
+🚧In testing.
+Javascript customized version to include:
+* in bubble two characters
+* two rows of indications below
+* download svg button
+
+![Screenshot](./screenshots/string-chords-charts.png)
+
 # Specs
 * Using ABCJS from Paul Rosen
 * Using TonalJS
+* UkeChords
 
 
 

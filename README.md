@@ -7,10 +7,12 @@ Android application for practicing music theory, scales, chords, interval, 100% 
 * [x] quizzes (intervals in treble and bass key, scales names, chords)
 * [x] sound loops for improvisation
 * [x] customizable partitions
+* [ ] internationalization (almost no text: I18n in progress English, French for now)
 
 # Status
 * Experimental
 * Requires minimal Android 7
+* Download: https://github.com/fxpar/android_music_theory_games/releases/tag/v0.2.0-alpha
 
 # Screenshots
 

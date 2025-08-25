@@ -1,5 +1,5 @@
 # Android Music Theory Games
-Android application for practicing music theory, scales, chords, interval, 100% offline, with music sounds.
+Android application for practicing music theory, scales, chords, intervals, 100% offline, including music Midi sounds.
 
 # Features
 * [x] dark / light mode

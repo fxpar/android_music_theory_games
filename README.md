@@ -20,9 +20,12 @@ Android application for practicing music theory, scales, chords, intervals, 100%
 ### Intervals training
 ![Screenshot](./screenshots/interval-bass-dark.png) ![Screenshot](./screenshots/intervals-treble-light.png)
 
-### Scale identification
+### Scale Coach identification
 * Easy change of bpm
 * Easy transposition up / Down / Fifth
+* Includes 100 scales examples
+* Easy sound listening
+* Easy tempo change
 
 ![Screenshot](./screenshots/scale-name-light-bpm.png) ![Screenshot](./screenshots/scale-name-dark-tooltip.png) 
 

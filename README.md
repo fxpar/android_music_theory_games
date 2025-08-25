@@ -6,9 +6,9 @@ Android application for practicing music theory, scales, chords, intervals, 100%
 * [x] music sound (mainly piano, but also violin and guitar)
 * [x] quizzes (intervals in treble and bass key, scales names, chords)
 * [x] sound loops for improvisation
-* [x] customizable partitions
+* [x] customizable partitions (simple training exercises, in ABC notation)
 * [ ] internationalization (almost no text: I18n in progress English, French for now)
-* [ ] saving custom partitions create by user
+* [ ] saving custom exercises created by user
 
 # Status
 * Experimental

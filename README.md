@@ -94,6 +94,17 @@ Provides additionals controls to the player:
 
 ![Screenshot](./screenshots/more.png)
 
+
+### Theory lesson reminder
+* [x] mode of major scales
+* [ ] modes of minor scales
+* [ ] tempo reminder
+* [ ] chords construction refresher
+
+![Screenshot](./screenshots/lesson-modes.png)
+
+
+
 ### Ukulele / Guitar chords chart creator
 🚧In testing.
 Javascript customized version to include:

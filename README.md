@@ -20,7 +20,11 @@ Android application for practicing music theory, scales, chords, intervals, 100%
 # Status
 * Experimental (Beta version)
 * Requires minimal Android 7
-* Download: https://github.com/fxpar/android_music_theory_games/releases/tag/v0.2.0-alpha
+* Download: [https://github.com/fxpar/android_music_theory_games/releases/tag/v0.2.0-alpha](https://github.com/fxpar/android_music_theory_games/releases/download/v0.3.0-alpha/musicTheoryGames-v0.3-alpha.apk)
+  * download the apk on your android device
+  * tap on the apk in the download list or using your file manager
+  * a message asks you to allow USB install (accept if you trust this)
+<img src="./screenshots/androidMusicTheoryGames-v0.3-alpha.apk.svg" width="200" />
 
 # Screenshots
 

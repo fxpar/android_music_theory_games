@@ -77,6 +77,7 @@ Work your improvisation with some custimizable jazz grids loops.
 * Best sound for bass and chord is piano
 * Customizable sound (guitar nylon and violin, but midi sound that great)
 * Customizable Chords font size
+* Customizable gchord string playback
 * you can test them: https://www.fxparlant.net/accompagnement-jam/
 
 ![Screenshot](./screenshots/jam-light.png) ![Screenshot](./screenshots/jam-dark.png)
@@ -103,6 +104,10 @@ Provides additionals controls to the player:
 
 ![Screenshot](./screenshots/lesson-modes.png)
 
+### ABCJS / MIDI Examples
+* [x] change playback instrument
+* [x] add intro drums
+* [x] drums example
 
 
 ### Ukulele / Guitar chords chart creator

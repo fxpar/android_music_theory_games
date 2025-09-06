@@ -17,6 +17,17 @@ Android application for practicing music theory, scales, chords, intervals, 100%
 
 # Screenshots
 
+### Home Screen
+![Screenshot](./screenshots/index.png) 
+
+### Metronome
+*[x] various tempos
+*[x] customizable in each abc editor
+*[ ] tempo trainer
+
+![Screenshot](./screenshots/metronome-1.png) ![Screenshot](./screenshots/metronome-2.png)
+
+
 ### Intervals training
 ![Screenshot](./screenshots/interval-bass-dark.png) ![Screenshot](./screenshots/intervals-treble-light.png)
 
@@ -29,6 +40,30 @@ Android application for practicing music theory, scales, chords, intervals, 100%
 * Random more for discovery
 
 ![Screenshot](./screenshots/scale-name-light-bpm.png) ![Screenshot](./screenshots/scale-name-dark-tooltip.png) 
+
+### Scale Chords progression
+* Notes of the scales
+* Chords
+* Transposition
+
+![Screenshot](./screenshots/scale-chords.png) 
+
+### Melodic Trainer
+Creates pages of exercises from a scale:
+
+* Choose a scale
+* Choose an number a notes exercises (3 notes, 4 notes, custom)
+* Version with / without tablature
+* Tablatures available: guitar, ukulele, violin, none
+* Tempo adjustment
+* Transposition
+* Presets of rhythms
+
+![Screenshot](./screenshots/melodic-trainer-1.png) ![Screenshot](./screenshots/melodic-trainer-2.png) 
+
+![Screenshot](./screenshots/melodic-trainer-3.png) ![Screenshot](./screenshots/melodic-trainer-4.png) 
+
+![Screenshot](./screenshots/melodic-trainer-uke.png) ![Screenshot](./screenshots/melodic-trainer-guitar.png) 
 
 #### tablatures
 * [x] Currently for ukulele g-tuning reentrant (GCEA)
@@ -44,7 +79,7 @@ Work your improvisation with some custimizable jazz grids loops.
 * Customizable Chords font size
 * you can test them: https://www.fxparlant.net/accompagnement-jam/
 
-![Screenshot](./screenshots/jam-light.png)
+![Screenshot](./screenshots/jam-light.png) ![Screenshot](./screenshots/jam-dark.png)
 
 ### Drag and drop chord Games
 * [ ] Work in progress: experimental games for learning chords construction
@@ -61,10 +96,13 @@ Javascript customized version to include:
 ![Screenshot](./screenshots/string-chords-charts.png)
 
 # Specs
-* Using ABCJS from Paul Rosen
-* Using TonalJS
-* UkeChords
-* Bootstrap 5.3
+* Using ABCJS from Paul Rosen and Gregory Dyke (extract from MIT Licence) https://github.com/paulrosen/abcjs
+* Using TonalJS by Tonal (MIT licence) https://github.com/tonaljs/tonal
+* Using UkeChords by pianosnake (MIT Licence) https://github.com/pianosnake/uke-chord
+* Using Bootstrap 5.3 (MIT Licence) https://github.com/twbs/bootstrap
+* Using Popper.js, now Floating.ui (MIT licence) https://github.com/floating-ui/floating-ui
+
+
 
 
 

@@ -10,7 +10,7 @@ Android application for practicing music theory, scales, chords, intervals, 100%
 * [x] Scales and modes trainer: identify the scale (🎖️quiz)
 * [x] Chord builder (🎖️game)
 * [x] Melodic intensive training: create ascending / descending ex (3 notes, 4 notes, alternates... for each scale and mode)
-* [ ] Tablatures: violin, guitar, ukulele
+* [x] Tablatures: violin, guitar, ukulele
 * [x] Dark / Light mode
 * [x] music sound (mainly piano, but also violin and guitar as MIDI sounds)
 * [x] customizable partitions (simple training exercises, in ABC notation)

@@ -86,6 +86,14 @@ Work your improvisation with some custimizable jazz grids loops.
 
 ![Screenshot](./screenshots/magic-square-chords.png) ![Screenshot](./screenshots/gamme-quiz-light.png)
 
+### The ⋮ "more" button
+Provides additionals controls to the player:
+* Transposition +12 / -12 half tones
+* Play the chords (chordson) / don't play them (chordsoff)
+* Increase / Decrease swing (from 50 to 75)
+
+![Screenshot](./screenshots/more.png)
+
 ### Ukulele / Guitar chords chart creator
 🚧In testing.
 Javascript customized version to include:

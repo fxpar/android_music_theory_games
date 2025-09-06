@@ -1,17 +1,24 @@
 # Android Music Theory Games
-Android application for practicing music theory, scales, chords, intervals, 100% offline, including music Midi sounds.
+Android application for practicing music theory, scales, chords, intervals, 100% offline, music Midi sounds included.
+*No adds, no internet required (entirely offline on device).*
 
 # Features
-* [x] dark / light mode
-* [x] music sound (mainly piano, but also violin and guitar)
-* [x] quizzes (intervals in treble and bass key, scales names, chords)
-* [x] sound loops for improvisation
+* [x] Metronome in 4 beats, 3 beats, 2 beats, alternate, custom(abc notation)
+* [x] Blues grid chords Loops for improvisation (10 presets, customizable)
+* [x] Intervals reading trainer: read in treble and bass key (🎖️quiz)
+* [x] Interval ear trainer: recognize from sound play (🎖️quiz)
+* [x] Scales and modes trainer: identify the scale (🎖️quiz)
+* [x] Chord builder (🎖️game)
+* [x] Melodic intensive training: create ascending / descending ex (3 notes, 4 notes, alternates... for each scale and mode)
+* [ ] Tablatures: violin, guitar, ukulele
+* [x] Dark / Light mode
+* [x] music sound (mainly piano, but also violin and guitar as MIDI sounds)
 * [x] customizable partitions (simple training exercises, in ABC notation)
 * [ ] internationalization (almost no text: I18n in progress English, French for now)
 * [ ] saving custom exercises created by user
 
 # Status
-* Experimental
+* Experimental (Beta version)
 * Requires minimal Android 7
 * Download: https://github.com/fxpar/android_music_theory_games/releases/tag/v0.2.0-alpha
 
@@ -121,6 +128,7 @@ Javascript customized version to include:
 
 # Specs
 * Using ABCJS from Paul Rosen and Gregory Dyke (extract from MIT Licence) https://github.com/paulrosen/abcjs
+* Using Soundfont (MIT licence) https://github.com/gleitz/midi-js-soundfonts
 * Using TonalJS by Tonal (MIT licence) https://github.com/tonaljs/tonal
 * Using UkeChords by pianosnake (MIT Licence) https://github.com/pianosnake/uke-chord
 * Using Bootstrap 5.3 (MIT Licence) https://github.com/twbs/bootstrap

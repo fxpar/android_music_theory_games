@@ -18,7 +18,7 @@ Android application for practicing music theory, scales, chords, intervals, 100%
 # Screenshots
 
 ### Home Screen
-![Screenshot](./screenshots/index.png) 
+![Screenshot](./screenshots/index.png) ![Screenshot](./screenshots/index-dark.png) 
 
 ### Metronome
 *[x] various tempos
@@ -67,7 +67,7 @@ Creates pages of exercises from a scale:
 
 #### tablatures
 * [x] Currently for ukulele g-tuning reentrant (GCEA)
-* [ ] Future version with guitar
+* [x] Future version with guitar, violin
 
 ![Screenshot](./screenshots/scale-select-dark.png) ![Screenshot](./screenshots/scale-select-light.png)
 

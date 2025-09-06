@@ -46,7 +46,7 @@ Android application for practicing music theory, scales, chords, intervals, 100%
 * Easy tempo change
 * Random more for discovery
 
-![Screenshot](./screenshots/scale-name-light-bpm.png) ![Screenshot](./screenshots/scale-name-dark-tooltip.png) 
+![Screenshot](./screenshots/scale-name-light-bpm.png) ![Screenshot](./screenshots/scale-name-dark-solution.png) 
 
 ### Scale Chords progression
 * Notes of the scales
